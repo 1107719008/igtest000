@@ -1,0 +1,41 @@
+
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/1107719008/material-icon/blob/master/camera.png?raw=true",
+            "HeaderMid":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png",
+            "HeaderRightUrl":"https://github.com/1107719008/material-icon/blob/master/send.png?raw=true"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VisualEditor_-_Icon_-_Move-rtl.svg/2000px-VisualEditor_-_Icon_-_Move-rtl.svg.png",
+            "HeaderRightUrl":"https://github.com/1107719008/material-icon/blob/master/edit%20(1).png?raw=true",
+            "bottomImage":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/btn_camera.png?raw=true",
+            "HeaderMidUrl":"https://github.com/1107719008/material-icon/blob/master/video-camera.png?raw=true"
+        },
+
+        "Friends": 
+        {
+        "name": "厚迷",
+        "camera": "https://github.com/1107719008/material-icon/blob/master/camera.png?raw=true",
+        "thumbnail_image": "https://clipartart.com/images/profile-image-icon-clipart-1.png",
+        "chat":"垃圾"
+        },
+
+        "Friends2": 
+        {
+        "name": "大帥哥",
+        "thumbnail_image": "https://www.clipartmax.com/png/middle/171-1717870_stockvader-predicted-cron-for-may-user-profile-icon-png.png",
+        "chat":"大帥哥 sent a photo."
+        },
+
+        "Friends3": 
+        {
+         "name": "綠茶妹",
+         "thumbnail_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNngF0RFPjyGl4ybo78-XYxxeap88Nvsyj1_txm6L4eheH8ZBu&usqp=CAU",
+         "chat":"來嗎～"
+        }
+
+            
+}
